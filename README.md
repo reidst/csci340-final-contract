@@ -22,3 +22,7 @@ I have agreed to manage client communication as well as Front-end HTML/CSS. Rega
 Simon:
 
 I have agreed to be the project manager specializing in SQL schema design and framework/deployment matters. As project manager, I will lead team meetings, ensure everyone is coordinated in their work, and help redistribute work if one person experiences difficulty. As a team, we have decided that SQL schema design will be a team decision, but it will be my job to confirm our decisions as final. I hope to contribute to a positive team experience by listening to and respecting each team member's needs and opinions, ensuring everyone has an equal voice, and doing my best to redistribute our workloads according to each team member's needs.
+
+Fin:
+
+I have agreed to make records of all the work we do in an easy-to-read manner so that we can all look back on it whenever we need to. I have also agreed to manage the Front-end Javascript/AJAX. I plan to make records of meetings in separate documents and add them to the teams' files tab as a  PDF after fixing the readability of the document. To make sure that they stay organized, the titles of each file will be in a YYYY-MM-DD-TITLE format, which will make sure that the files will be in chronological order. I hope to contribute to the team by making sure that miscommunication remains at a minimum at all times, which will help us reach our goals on time.
