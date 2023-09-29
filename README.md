@@ -18,3 +18,7 @@ All breaches of contract will be recorded and reported in the peer evaluation at
 Kate:
 
 I have agreed to manage client communication as well as Front-end HTML/CSS. Regarding client communication, I will be the one to contact the client and organize meetings with them. I will also lead the development of our presentations to the class. Additionally, I will be the point person on HTML/CSS, but will not be the only one to work on it. I hope to contribute to a positive team experience by communicating early and often, and doing my best to meet whatever goals we set on time. In the case of conflicts, I plan to try first to talk it out and compromise, before reaching out to Dr. Goadrich.
+
+Simon:
+
+I have agreed to be the project manager specializing in SQL schema design and framework/deployment matters. As project manager, I will lead team meetings, ensure everyone is coordinated in their work, and help redistribute work if one person experiences difficulty. As a team, we have decided that SQL schema design will be a team decision, but it will be my job to confirm our decisions as final. I hope to contribute to a positive team experience by listening to and respecting each team member's needs and opinions, ensuring everyone has an equal voice, and doing my best to redistribute our workloads according to each team member's needs.
